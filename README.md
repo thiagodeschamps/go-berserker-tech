@@ -1,6 +1,17 @@
 # go-berserker-tech
 
 ```bash
+├── Data Engineering
+|   ├── Concepts (Cloud, Databases...)
+|   ├── Cloud
+|   |   ├── AWS
+|   |   ├── Azure
+|   |   └── GCP
+│   ├── Spark
+│   ├── Airflow
+│   ├── Pipelines/ELT/ETL	
+|   ├── SQL
+|   └── Apache Kafka
 ├── Software Architecture
 │   ├── Performance
 │   ├── Reliability
