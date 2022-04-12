@@ -25,3 +25,8 @@
 
 ## Glossario da Area de Dados
 ![](./src/gloassario_area_dados.jpg)
+
+# Projects and Repositories
+
+## Roadmap de Engenharia de Dados
+- https://github.com/indramaia/data-engineer-roadmap-1

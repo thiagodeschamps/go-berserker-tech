@@ -2,6 +2,11 @@
 
 ## JOBS
 - https://personal-jdln7y76.outsystemscloud.com/VagasTI/Vagas
+- https://meetfrank.com/
+- https://relocate.me/
+- https://justjoin.it/
+- https://nofluffjobs.com/
+- https://vanhack.com/
 
 ## Interviews
 
