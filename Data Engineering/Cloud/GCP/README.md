@@ -9,9 +9,9 @@
 
 ## Services
 
-![](./src/GCP_Services.png)
+![](./src/GCP_Services.jpg)
 
 
 ## BigLake
 
-![](./src/GCP_BigLake.png)
+![](./src/GCP_BigLake.jgp)
