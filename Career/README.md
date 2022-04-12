@@ -5,6 +5,8 @@
 
 ## Interviews
 
-### ML Tips
+### ML
 
-![](./src/ML_preparation.jpg)
+<p align="center">
+  <img src="./src/ML_preparation.jpg" width="300" />
+</p>
