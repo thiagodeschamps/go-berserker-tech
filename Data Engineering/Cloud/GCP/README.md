@@ -14,4 +14,4 @@
 
 ## BigLake
 
-![](./src/GCP_BigLake.jgp)
+![](./src/GCP_BigLake.jpg)
