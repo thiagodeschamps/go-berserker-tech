@@ -2,7 +2,7 @@
 
 ```bash
 ├── Data Engineering
-|   ├── Concepts (Cloud, Databases...)
+|   ├── General
 |   ├── Cloud
 |   |   ├── AWS
 |   |   ├── Azure
